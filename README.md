@@ -51,7 +51,7 @@ This project helped me enhance my expertise in:
 
 
 ## Dashboard  
-- **Dashboard Link**: [Link](https://bit.ly/43PeiLn)  
+- **Dashboard Link**: [Link](https://bit.ly/4iTy6Bs)  
 
 ## Stay Connected  
 Follow me on [LinkedIn](https://www.linkedin.com/in/sowmya-sreenivasan/) to explore more projects and my data analytics journey!  
